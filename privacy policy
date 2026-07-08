@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy - BLOCK RUSH BLAST</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 24px; max-width: 900px; }
+    h1, h2, h3 { line-height: 1.25; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p><strong>Last updated:</strong> 2026-07-08</p>
+
+<p>
+This Privacy Policy applies to the mobile game <strong>BLOCK RUSH BLAST</strong>
+(package name: <code>com.plutogames.blockrush</code>) published by <strong>PlutoGames</strong>.
+</p>
+
+<h3>1) Summary</h3>
+<ul>
+  <li>We do <strong>not</strong> require account creation and we do <strong>not</strong> provide cloud save.</li>
+  <li>Game progress is stored <strong>locally on your device</strong>.</li>
+  <li>We may use third-party services such as Firebase Analytics, Google Play Billing, and advertising services, which may process limited data.</li>
+</ul>
+
+<h3>2) Data we collect</h3>
+<p>We may collect limited data to operate, measure, and improve the game:</p>
+<ul>
+  <li>
+    <strong>App interactions / usage data</strong> such as app opens, screens viewed, session length, and gameplay events
+    for analytics and performance improvements.
+  </li>
+  <li>
+    <strong>Device & app identifiers</strong> such as an app-instance / installation identifier used by analytics.
+    If ads are enabled, we or our ad partners may also use advertising identifiers such as the Android Advertising ID
+    and/or App Set ID depending on device settings and SDK configuration.
+  </li>
+  <li>
+    <strong>Diagnostics</strong> such as performance information and crash-related data if diagnostic or crash reporting is enabled.
+  </li>
+  <li>
+    <strong>In-app purchase information</strong> such as product ID and purchase status to deliver purchased items and restore purchases,
+    if in-app purchases are available in the game. Payment details are handled by Google Play and are not received by us.
+  </li>
+</ul>
+
+<h3>3) Local game data (no account / no cloud save)</h3>
+<ul>
+  <li>
+    <strong>Progress is stored locally</strong> on your device, for example your level progress, coins, game settings, and similar gameplay data.
+  </li>
+  <li>
+    If you uninstall the game, local data stored on the device is typically removed with the app.
+    We do not offer account-based syncing or cloud backup within the game.
+  </li>
+</ul>
+
+<h3>4) How we use data</h3>
+<ul>
+  <li>To measure retention, session length, gameplay behavior, and improve performance and user experience.</li>
+  <li>To show ads and help prevent fraud or abuse related to ads, if ads are enabled.</li>
+  <li>To process and validate in-app purchases and deliver purchased content, if purchases are available.</li>
+  <li>To diagnose crashes, bugs, and performance issues if diagnostic tools are enabled.</li>
+</ul>
+
+<h3>5) Third-party services</h3>
+<p>We may use third-party services that collect and process data according to their own policies:</p>
+<ul>
+  <li><strong>Google Firebase / Google Analytics</strong> for analytics and measurement</li>
+  <li><strong>Google Play Billing</strong> for in-app purchases, if purchases are available</li>
+  <li><strong>Google AdMob / Google Mobile Ads SDK</strong> for advertisements, if ads are enabled</li>
+  <li><strong>AppLovin MAX</strong> for advertisements and ad mediation, if enabled</li>
+</ul>
+
+<h3>6) Data sharing</h3>
+<p>
+We do not sell personal data.
+Data may be processed and/or shared with the service providers listed above only to provide analytics, advertising,
+purchase functionality, fraud prevention, diagnostics, and app performance features.
+</p>
+
+<h3>7) Security</h3>
+<p>
+We do not operate our own user account servers for this game.
+We rely on reputable third-party providers and use reasonable measures to protect data.
+For example, data transmission is handled using secure connections where applicable, and access to tools such as Firebase,
+Google Play services, AdMob, or AppLovin is limited to authorized use for operating the game.
+</p>
+
+<h3>8) Data retention and deletion</h3>
+<ul>
+  <li>
+    We retain data only as long as necessary to operate and improve the game, comply with legal obligations,
+    prevent fraud or abuse, and resolve disputes. Retention periods may vary depending on the provider settings.
+  </li>
+  <li>
+    You can reset or limit the Android Advertising ID in your device settings. This may affect personalized ads.
+  </li>
+  <li>
+    If you contact us, we can provide guidance on deletion options available through our providers,
+    for example deleting or resetting identifiers used by analytics services where available.
+  </li>
+</ul>
+
+<h3>9) Your choices</h3>
+<ul>
+  <li>You can limit ad personalization and reset your Advertising ID via Android or Google settings.</li>
+  <li>You can contact us for privacy and data questions.</li>
+  <li>You can uninstall the game to remove locally stored game data from your device, subject to your device and platform behavior.</li>
+</ul>
+
+<h3>10) Children’s privacy</h3>
+<p>
+We do not knowingly collect personal information from children.
+If you believe a child has provided personal information, please contact us and we will take appropriate steps.
+</p>
+
+<h3>11) Changes to this policy</h3>
+<p>
+We may update this policy from time to time. Changes will be posted on this page with an updated “Last updated” date.
+</p>
+
+<h3>12) Contact</h3>
+<p>
+Email: <a href="mailto:xmusafa5834@outlook.com">xmusafa5834@outlook.com</a>
+</p>
+
+</body>
+</html>
